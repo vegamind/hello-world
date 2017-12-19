@@ -1,3 +1,2 @@
 
-vega
-#rep for all my personal small scripts/programs
+rep for all my personal small scripts/programs
